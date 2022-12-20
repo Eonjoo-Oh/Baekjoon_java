@@ -5,7 +5,7 @@ package 입출력과_사칙연산;
  */
 import java.util.Scanner;
 
-public class boj_10998 {
+public class BOJ_10998 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
